@@ -10,9 +10,9 @@ scikit-learn
 pdfplumber
 PyMuPDF
 pymupdf
-pyheif
-pillow-heif
-onnxruntime==1.16.3
+# pyheif
+# pillow-heif
+# onnxruntime==1.16.3
 streamlit
 openai
 pandas
