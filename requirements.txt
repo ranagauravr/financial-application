@@ -10,9 +10,7 @@ scikit-learn
 pdfplumber
 PyMuPDF
 pymupdf
-# pyheif
-# pillow-heif
-# onnxruntime==1.16.3
+
 streamlit
 openai
 pandas
@@ -21,6 +19,5 @@ tqdm
 seaborn
 sentence-transformers
 unstructured-inference
-pi-heif
-camelot
-camelot-py[cv]
+
+
